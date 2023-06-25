@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPgPYap.jpg"},
+  {"desc2":"Skibidi Toilet Puzzle Games are a fascinating fusion of two elements that are rarely associated together—bathroom breaks and puzzle games","photo2":"https://iili.io/HPgPl9I.jpg"},
+  {"desc3":"The concept involves providing players with puzzle challenges to solve while taking a momentary pause in the restroom","photo3":"https://iili.io/HPgP0ut.jpg"},
+  {"desc4":"These games aim to transform an otherwise mundane experience into an enjoyable and mentally stimulating activity.","photo4":"https://iili.io/HPgP7FR.jpg"},
+  {"desc5":"By incorporating puzzle mechanics into a traditionally uneventful situation, developers have managed to create a distinctive gaming experience.","photo5":"https://iili.io/HPgPa8N.jpg"},
+  {"descd":"he gameplay mechanics of Skibidi Toilet Puzzle Games are designed to be simple, intuitive, and suited for short play sessions.","photod":"https://iili.io/HPgP1wX.jpg"}
    ]
  
 }
